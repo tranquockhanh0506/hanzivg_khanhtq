@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Copyright (C) 2009/2010/2011 Ulrich Apel.
+Copyright (C) 2016 François Mizessyn.
+This work makes an extensive use of kanjiVG Copyright (C) 2009/2010/2011 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
 
 Under the following conditions:
+* Attribution. You must attribute the work by stating your use of HanjiVG in
+  your own copyright header and linking to HanjiVG's website
+  (http://gooo.free.fr/hanziVG/)
 * Attribution. You must attribute the work by stating your use of KanjiVG in
   your own copyright header and linking to KanjiVG's website
   (http://kanjivg.tagaini.net)
@@ -45,8 +49,8 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:0677f-g2" kvg:element="反" kvg:position="right" kvg:phon="反">
 		<g id="kvg:0677f-g3" kvg:element="厂">
-			<path id="kvg:0677f-s5" kvg:type="㇐" d="M47.36,24.88c1.77,0.25,3.65,0.17,4.92,0.02c9.6-1.15,21.47-3.28,29.76-4.24c2.12-0.25,3.42-0.04,4.49,0.19"/>
-			<path id="kvg:0677f-s6" kvg:type="㇒" d="M49.43,25.31c1.13,1.13,1.43,2.82,1.43,4.46C50.85,54.75,49,75,37.31,88.36"/>
+			<path id="kvg:0677f-s5" kvg:type="㇐" d="M 85.64,15.18 C 83.85,19.87 60.21,25.11 51.88,26.02 49.76,26.27 48.46,26.06 47.39,25.83"/>
+			<path id="kvg:0677f-s6" kvg:type="㇒" d="M 49.43,26.41 C 50.56,27.54 50.86,29.23 50.86,30.87 50.85,55.85 49,75 37.31,88.36"/>
 		</g>
 		<g id="kvg:0677f-g4" kvg:element="又">
 			<path id="kvg:0677f-s7" kvg:type="㇇" d="M53.39,44.21c1.33,0.36,3.49,0.39,6.15-0.14c2.66-0.54,16.22-4.07,19.35-4.98c2.72-0.79,3.87,1.03,2.99,3.94C74.77,66.51,66.25,81.75,48,92.25"/>

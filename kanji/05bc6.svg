@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
+Stroke order modified by François Mizessyn.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -47,13 +48,13 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:05bc6-g4" kvg:element="必">
 			<g id="kvg:05bc6-g5" kvg:element="心" kvg:part="1" kvg:variant="true">
-				<path id="kvg:05bc6-s4" kvg:type="㇔" d="M47.19,34.09c1.43,2.44,5.19,7.13,6.08,3.69"/>
+				<path id="kvg:05bc6-s4" kvg:type="㇔" d="M27.75,45.38c0.28,2.02-2.8,10.92-5.04,14.28"/>
+				<path id="kvg:05bc6-s5" kvg:type="㇟b" d="M35.99,37.54C43.5,53,51.75,64,78.83,63.69c9.55-0.11,7.22-3.81,3.26-7.05"/>
 				<g id="kvg:05bc6-g6" kvg:element="丿">
-					<path id="kvg:05bc6-s5" kvg:type="㇒" d="M68.05,31.81c0.11,0.84,0.13,2.24-0.46,3.38c-6.21,11.93-20.46,25.68-45.33,36.56"/>
+					<path id="kvg:05bc6-s6" kvg:type="㇒" d="M68.05,31.81c0.11,0.84,0.13,2.24-0.46,3.38c-6.21,11.93-20.46,25.68-45.33,36.56"/>
 				</g>
 				<g id="kvg:05bc6-g7" kvg:element="心" kvg:part="2" kvg:variant="true">
-					<path id="kvg:05bc6-s6" kvg:type="㇟b" d="M35.99,37.54C43.5,53,51.75,64,78.83,63.69c9.55-0.11,7.22-3.81,3.26-7.05"/>
-					<path id="kvg:05bc6-s7" kvg:type="㇔" d="M27.75,45.38c0.28,2.02-2.8,10.92-5.04,14.28"/>
+					<path id="kvg:05bc6-s7" kvg:type="㇔" d="M47.19,34.09c1.43,2.44,5.19,7.13,6.08,3.69"/>
 					<path id="kvg:05bc6-s8" kvg:type="㇔" d="M76.44,40.2c4.94,2.43,9.44,6.3,11.56,9.91"/>
 				</g>
 			</g>
@@ -70,10 +71,10 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 44.50 9.13)">1</text>
 	<text transform="matrix(1 0 0 1 15.50 28.50)">2</text>
 	<text transform="matrix(1 0 0 1 27.50 23.50)">3</text>
-	<text transform="matrix(1 0 0 1 39.75 34.63)">4</text>
-	<text transform="matrix(1 0 0 1 60.50 33.50)">5</text>
-	<text transform="matrix(1 0 0 1 29.25 39.50)">6</text>
-	<text transform="matrix(1 0 0 1 21.75 48.05)">7</text>
+	<text transform="matrix(1 0 0 1 21.75 48.05)">4</text>
+	<text transform="matrix(1 0 0 1 29.25 39.50)">5</text>
+	<text transform="matrix(1 0 0 1 39.75 34.63)">6</text>
+	<text transform="matrix(1 0 0 1 60.50 33.50)">7</text>
 	<text transform="matrix(1 0 0 1 74.50 37.50)">8</text>
 	<text transform="matrix(1 0 0 1 45.50 70.50)">9</text>
 	<text transform="matrix(1 0 0 1 18.50 81.50)">10</text>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
+Stroke order modified by François Mizessyn.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -39,8 +40,8 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:06591" kvg:element="斑">
 	<g id="kvg:06591-g1" kvg:element="王" kvg:original="玉" kvg:partial="true" kvg:position="left" kvg:radical="nelson">
 		<path id="kvg:06591-s1" kvg:type="㇐" d="M12.25,27.25c0.56,0.37,3.6,0.45,4.16,0.34c2.63-0.5,13.34-2.09,19.66-2.64c0.86-0.07,2.46-0.26,3.18,0.04"/>
-		<path id="kvg:06591-s2" kvg:type="㇑a" d="M25.57,29.52c0.87,0.88,1.48,2.78,1.48,3.48c0,5.95,0.52,37.62,0.35,41.57"/>
-		<path id="kvg:06591-s3" kvg:type="㇐" d="M12.5,52.32c0.5,0.36,3.99,0.42,4.5,0.33c2.91-0.48,13.66-2.25,17.69-2.76c0.62-0.08,2.88-0.15,3.81,0.17"/>
+		<path id="kvg:06591-s2" kvg:type="㇐" d="M12.5,52.32c0.5,0.36,3.99,0.42,4.5,0.33c2.91-0.48,13.66-2.25,17.69-2.76c0.62-0.08,2.88-0.15,3.81,0.17"/>
+		<path id="kvg:06591-s3" kvg:type="㇑a" d="M25.57,29.52c0.87,0.88,1.48,2.78,1.48,3.48c0,5.95,0.52,37.62,0.35,41.57"/>
 		<path id="kvg:06591-s4" kvg:type="㇐" d="M13.25,80.75c1.25,1.5,3.18,1.43,4,1C22.5,79,29.5,75.5,37.5,70.75"/>
 	</g>
 	<g id="kvg:06591-g2" kvg:position="right">
@@ -56,8 +57,8 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:06591-g6" kvg:element="王" kvg:original="玉" kvg:partial="true">
 			<path id="kvg:06591-s9" kvg:type="㇐" d="M67.5,24.86c0.63,0.45,2.67,0.08,3.31,0.03c4.94-0.39,13.69-1.39,20.5-2.68c0.96-0.18,1.85,0.09,2.65,0.46"/>
-			<path id="kvg:06591-s10" kvg:type="㇑a" d="M79.25,26.56c1.61,2.19,1.61,3.5,1.61,5.25c0,12.25-0.02,33.88-0.02,53.51"/>
-			<path id="kvg:06591-s11" kvg:type="㇐" d="M67.95,53.54c0.47,0.31,3.5,0.69,3.98,0.63c4.96-0.54,12.76-2.12,18.59-2.66c0.58-0.05,1.86-0.12,2.73,0.14"/>
+			<path id="kvg:06591-s10" kvg:type="㇐" d="M67.95,53.54c0.47,0.31,3.5,0.69,3.98,0.63c4.96-0.54,12.76-2.12,18.59-2.66c0.58-0.05,1.86-0.12,2.73,0.14"/>
+			<path id="kvg:06591-s11" kvg:type="㇑a" d="M79.25,26.56c1.61,2.19,1.61,3.5,1.61,5.25c0,12.25-0.02,33.88-0.02,53.51"/>
 			<path id="kvg:06591-s12" kvg:type="㇐" d="M61.25,87.11c0.42,0.12,2.63,0.06,3.35,0c10.04-0.83,20.55-1.84,31.29-2.13c1.15-0.03,2.54,0.2,3.12,0.38"/>
 		</g>
 	</g>
@@ -65,16 +66,16 @@ kvg:type CDATA #IMPLIED >
 </g>
 <g id="kvg:StrokeNumbers_06591" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 5.50 26.50)">1</text>
-	<text transform="matrix(1 0 0 1 20.25 37.05)">2</text>
-	<text transform="matrix(1 0 0 1 6.50 52.50)">3</text>
+	<text transform="matrix(1 0 0 1 6.50 52.50)">2</text>
+	<text transform="matrix(1 0 0 1 20.25 37.05)">3</text>
 	<text transform="matrix(1 0 0 1 5.25 81.50)">4</text>
 	<text transform="matrix(1 0 0 1 44.50 17.50)">5</text>
 	<text transform="matrix(1 0 0 1 41.50 32.75)">6</text>
 	<text transform="matrix(1 0 0 1 54.50 43.50)">7</text>
 	<text transform="matrix(1 0 0 1 47.50 46.50)">8</text>
 	<text transform="matrix(1 0 0 1 65.50 21.50)">9</text>
-	<text transform="matrix(1 0 0 1 70.50 34.50)">10</text>
-	<text transform="matrix(1 0 0 1 65.50 50.50)">11</text>
+	<text transform="matrix(1 0 0 1 65.50 50.50)">10</text>
+	<text transform="matrix(1 0 0 1 70.50 34.50)">11</text>
 	<text transform="matrix(1 0 0 1 58.50 83.50)">12</text>
 </g>
 </svg>

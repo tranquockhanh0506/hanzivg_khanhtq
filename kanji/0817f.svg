@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
+Glyph modified by François Mizessyn.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -53,10 +54,9 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0817f-s10" kvg:type="㇏" d="M68.88,41.38C72,47.75,79.38,62,86.64,71.95c1.79,2.46,3.81,5.6,6.36,7.3"/>
 		</g>
 		<g id="kvg:0817f-g4" kvg:element="辶" kvg:position="nyo">
-			<path id="kvg:0817f-s11" kvg:type="㇔" d="M46.29,16.5c2.67,1.74,6.9,7.17,7.57,9.88"/>
-			<path id="kvg:0817f-s12" kvg:type="㇔" d="M41.32,39c3.19,0.99,8.25,4.09,9.04,5.63"/>
-			<path id="kvg:0817f-s13" kvg:type="㇋" d="M40.25,60.94c1.66,0.85,2.76,0.43,3.49,0.21c0.74-0.21,5.89-2.99,6.99-3.42c1.1-0.43,2.69,1.03,2.02,2.35c-5.88,11.54-6.26,6.41-0.18,16.23c0.73,1.19,0.82,2.36-0.3,3.42c-2.15,2.02-5.27,5.15-7.47,6.97"/>
-			<path id="kvg:0817f-s14" kvg:type="㇏" d="M41.17,88.07c2.18-0.24,6.54-0.85,9.81-0.37c3.27,0.49,21.84,3.76,25.06,4.39c8.72,1.71,14.84,2.28,21.97,2.09"/>
+			<path id="kvg:0817f-s11" kvg:type="㇔" d="M 46.29,20.5 C 48.96,22.24 53.19,27.67 53.86,30.38"/>
+			<path id="kvg:0817f-s12" kvg:type="㇋" d="M 40.884944,43.577469 C 42.448117,44.89074 43.483955,44.24183 44.171375,43.901924 44.868211,43.577469 49.317816,42.582303 50.353654,41.917942 51.389492,41.253582 52.886748,43.509317 52.255829,45.548749 46.718804,63.378326 46.36097,55.452353 52.086328,70.624488 52.773748,72.463067 52.858498,74.270745 51.803827,75.90847 49.779234,79.029419 46.841222,83.865344 44.769546,86.677288"/>
+			<path id="kvg:0817f-s13" kvg:type="㇏" d="M41.17,88.07c2.18-0.24,6.54-0.85,9.81-0.37c3.27,0.49,21.84,3.76,25.06,4.39c8.72,1.71,14.84,2.28,21.97,2.09"/>
 		</g>
 	</g>
 </g>
@@ -72,9 +72,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 56.50 23.50)">8</text>
 	<text transform="matrix(1 0 0 1 90.50 42.50)">9</text>
 	<text transform="matrix(1 0 0 1 74.50 48.50)">10</text>
-	<text transform="matrix(1 0 0 1 40.50 14.50)">11</text>
-	<text transform="matrix(1 0 0 1 39.50 35.50)">12</text>
-	<text transform="matrix(1 0 0 1 38.50 56.50)">13</text>
-	<text transform="matrix(1 0 0 1 38.50 81.50)">14</text>
+	<text transform="matrix(1 0 0 1 36.50 18.50)">11</text>
+	<text transform="matrix(1 0 0 1 35.50 39.50)">12</text>
+	<text transform="matrix(1 0 0 1 38.50 81.50)">13</text>
 </g>
 </svg>

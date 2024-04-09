@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
+Stroke order modified by François Mizessyn.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -44,8 +45,8 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05448-g2" kvg:element="王" kvg:original="玉" kvg:partial="true" kvg:position="bottom" kvg:phon="壬V">
 		<path id="kvg:05448-s4" kvg:type="㇐" d="M29,53.97c2.88,0.41,5.88,0.14,8.12-0.14c7.65-0.98,25.12-2.7,35.27-3.42c2.23-0.16,4.98-0.28,7.11,0.35"/>
-		<path id="kvg:05448-s5" kvg:type="㇑a" d="M53,54.75c0.88,0.88,1.25,1.75,1.25,3.25c0,7,0,22.38,0,29.5"/>
-		<path id="kvg:05448-s6" kvg:type="㇐" d="M29.25,70.25c2.5,0.62,6.43,0.36,8.39,0.15c9.26-0.96,22.62-2.68,32.87-3.63c2.82-0.26,6.25-0.4,8.75,0.23"/>
+		<path id="kvg:05448-s5" kvg:type="㇐" d="M29.25,70.25c2.5,0.62,6.43,0.36,8.39,0.15c9.26-0.96,22.62-2.68,32.87-3.63c2.82-0.26,6.25-0.4,8.75,0.23"/>
+		<path id="kvg:05448-s6" kvg:type="㇑a" d="M53,54.75c0.88,0.88,1.25,1.75,1.25,3.25c0,7,0,22.38,0,29.5"/>
 		<path id="kvg:05448-s7" kvg:type="㇐" d="M15.75,90.49c3.07,1.06,7.09,0.77,10.25,0.52c20.4-1.58,37.09-3.35,57.63-4.17c3.43-0.14,7.35,0.09,10.62,1.4"/>
 	</g>
 </g>
@@ -55,8 +56,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 32.25 16.63)">2</text>
 	<text transform="matrix(1 0 0 1 38.50 34.55)">3</text>
 	<text transform="matrix(1 0 0 1 21.50 53.50)">4</text>
-	<text transform="matrix(1 0 0 1 46.50 62.90)">5</text>
-	<text transform="matrix(1 0 0 1 21.75 70.50)">6</text>
+	<text transform="matrix(1 0 0 1 21.75 70.50)">5</text>
+	<text transform="matrix(1 0 0 1 46.50 62.90)">6</text>
 	<text transform="matrix(1 0 0 1 9.50 88.50)">7</text>
 </g>
 </svg>

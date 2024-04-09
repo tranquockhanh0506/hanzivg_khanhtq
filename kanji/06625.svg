@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Copyright (C) 2009/2010/2011 Ulrich Apel.
+Copyright (C) 2016 François Mizessyn.
+This work makes an extensive use of kanjiVG Copyright (C) 2009/2010/2011 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
 
 Under the following conditions:
+* Attribution. You must attribute the work by stating your use of HanjiVG in
+  your own copyright header and linking to HanjiVG's website
+  (http://gooo.free.fr/hanziVG/)
 * Attribution. You must attribute the work by stating your use of KanjiVG in
   your own copyright header and linking to KanjiVG's website
   (http://kanjivg.tagaini.net)
@@ -56,7 +60,7 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:06625-g8" kvg:element="大" kvg:part="2">
 			<g id="kvg:06625-g9" kvg:element="人">
 				<path id="kvg:06625-s4" kvg:type="㇒" d="M52.75,11.25c1,1.5,1.02,3.53,0.54,5.9C50.12,32.62,39.5,68,12.5,80.75"/>
-				<path id="kvg:06625-s5" kvg:type="㇏" d="M53.25,41.25c2.29,0.15,29.6,28.08,35.99,32.9c2.21,1.67,5.05,2.38,7.26,2.85"/>
+				<path id="kvg:06625-s5" kvg:type="㇏" d="M 61.45,49.35 C 64.54,51.5 82.85,69.33 89.24,74.15 91.45,75.82 94.29,76.53 96.5,77"/>
 			</g>
 		</g>
 	</g>
